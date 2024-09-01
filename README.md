@@ -1,5 +1,4 @@
 # TicTacToe-Game-JS
-# Tic Tac Toe
 
 ![Tic Tac Toe UI](https://github.com/soumadip-dev/TicTacToe-Game-JS/blob/main/Images/game.png)
 
